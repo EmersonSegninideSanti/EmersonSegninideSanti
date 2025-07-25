@@ -7,10 +7,9 @@
 - ⚡ Fun fact: ...- -->
 
 - 👋 Olá, sou @EmersonSegninideSanti.
-- 👀 Tenho interesse em desenvolvimento web.
-- 🌱 Curso Análise e Desenvolvimento de Sistemas e estudo, paralelamente, o framework <b>Django</b> e frontend.
+- 👀 Tenho interesse em uma carreira de desenvolvimento web.
+- 🌱 Curso Análise e Desenvolvimento de Sistemas.
 - 📫 Email: emersonsegninidesanti@gmail.com
-- ⚡ Fun fact: ...- 
 
 <!---
 EmersonSegninideSanti/EmersonSegninideSanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
